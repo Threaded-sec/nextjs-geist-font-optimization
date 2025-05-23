@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Watcher</string>
+    <string name="browse_movies">Browse Movies</string>
+    <string name="get_more_credits">Get More Credits</string>
+    <string name="available_credits">Available Credits: %d</string>
+    <string name="watch_ad_title">Watch Ad for Credits</string>
+    <string name="watch_ad_message">Watch a short ad to earn 5 credits!</string>
+    <string name="watch_ad">Watch Ad</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_loading_ad">Error loading advertisement</string>
+    <string name="credits_earned">You earned %d credits!</string>
+    <string name="not_enough_credits">Not enough credits</string>
+    <string name="need_more_credits">You need %d more credits to watch this</string>
+    <string name="loading">Loading…</string>
+    <string name="error_playing_video">Error playing video</string>
+    <string name="try_again">Try Again</string>
+    <string name="episode">Episode %d</string>
+    <string name="duration">%s min</string>
+    <string name="credits_cost">%d Credits</string>
+</resources>
